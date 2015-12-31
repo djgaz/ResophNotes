@@ -3,7 +3,7 @@
 12/30/15 Get Notes together in this tools for all projects.
 * Need to document all projects on their own pages
 * Notes might go in same file, maybe on a notes page.
-* Backup this entire application since it is portable.  Get all of it instead of just the data directory.
+* Backup this entire application since it is portable.  Get all of it instead of just the data directory. 12/30/15 Done this line item
 
 11/24  going through 0_0_A-RecruiterInq2014  removing most duplicate entries leaving most recent.
 

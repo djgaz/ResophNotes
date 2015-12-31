@@ -1,0 +1,30 @@
+12/30/15 This needs to be combined with what's in 1.0_CurrentToDo__OrDoing Oct`15 and organized.
+
+Projects:
+
+!!!  Backup this fucking disk  !!!
+
+Big deal archival of Yahoo mail.  
+* Java Selenium to mine the Yahoo mail 
+* Web front end to Postgres to be the local repository
+* WebSite and postgres on a Ubuntu VM in Virtual Box.
+
+Preceeding that....
+Ubuntu VM with Apache installed
+* Requires configuration that will allow the VM to get out to the internet
+* And will allow a website to be published.
+* So, it needs two way network access
+
+
+Ubuntu VM in Virtual box
+* Local install
+* Do a Vagrant install of trusty 64 ... ?
+
+Do I need a second VM, one with a GUI ?
+* would I be able to get at one from the other ??
+
+
+
+
+
+end note:
