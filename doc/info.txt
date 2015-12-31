@@ -1,0 +1,20 @@
+This software is provided "as-is", without any express or implied warranty.<br>
+In no event shall the author be held liable for any damages arising from the use of this software.
+<br>
+<br>
+<b>On-line Synchronization</b><br>
+On-line database is provided by <a href="http://simplenoteapp.com"><b>Simplenote</b></a>.  Please go to <a href="http://simplenoteapp.com">http://simplenoteapp.com</a> for a free account and iPhone support.
+<br>
+<br>
+<b>Icons</b><br>
+Those wonderful icons are from <a href="http://www.famfamfam.com/lab/icons/silk">famfamfam.com</a> and <a href="http://www.fatcow.com/free-icons">FatCow</a>.
+<br>
+<br>
+<b>OpenSSL</b><br>
+Libraries for OpenSSL are subject to local and state laws.<br>
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (<a href="http://www.openssl.org/">http://www.openssl.org</a>)
+<br>
+<br>
+<b>Markdown</b><br>
+This product includes software developed by<br>
+David Loren Parsons <a href="http://www.pell.portland.or.us/~orc">http://www.pell.portland.or.us/~orc</a>

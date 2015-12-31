@@ -1,0 +1,44 @@
+Page Index:  
+1) URLs from 12/1/15
+2) google: 100 most popular companies in San Francisco 2015
+
+
+
+12/1/15 Page I was looking at over time with JobDescriptions on it.  yes, first on is a really HUGE URL
+http://johnsonjobs.com/jobs/search?%2Fjobs%2Fsearch%3F=&job_title=Software+QA+Engineer%2CProject+Manager%2CProduct+Manager&Industries=Java%2CSoftware+Engineering%2CQuality+Assurance%2CTest+Automation%2CSelenium%2CWeb+Design&Locations=San+Francisco+%28CA%29&l=San+Francisco+%28CA%29&q=%28title%3A%28%28Software+AND+QA+AND+Engineer%29+OR+%28Project+AND+Manager%29+OR+%28Product+AND+Manager%29%29%29+AND+%28%28Java%29+OR+%28Software+AND+Engineering%29+OR+%28Quality+AND+Assurance%29+OR+%28Test+AND+Automation%29+OR+%28Selenium%29+OR+%28Web+AND+Design%29%29&sort=rd&radius=50&start=75&limit=&page=5&q=%28title%3A%28%28Software+AND+QA+AND+Engineer%29+OR+%28Project+AND+Manager%29+OR+%28Product+AND+Manager%29%29%29+AND+%28%28Java%29+OR+%28Software+AND+Engineering%29+OR+%28Quality+AND+Assurance%29+OR+%28Test+AND+Automation%29+OR+%28Selenium%29+OR+%28Web+AND+Design%29%29&l=San+Francisco+%28CA%29&sort=rd&radius=50&start=75&limit=&page=6&start=90
+
+http://www.powerreviews.com/careers/?nl=1&jvi=oMxQ1fwU,Job&jvs=Appcast&jvk=Job
+
+https://www.ziprecruiter.com/jobs/verticalmove-inc-88c7a248/product-manager-consumer-e-commerce-publicly-traded-1dcf7f51?mid=4c70d3b4&source=cpc-SimplyHired-priority
+http://www.doostang.com/signups/signup_syndicate_nonfinance/778772?utm_source=SimplyHired&utm_medium=syndication&utm_campaign=Recruitics&rx_source=simplyhired&rx_campaign=simplyhired21&rx_medium=cpc
+https://www.theladders.com/signup/job?pl=s4-104&cr=19752156&rx_job=51775518&rx_source=simplyhired&rx_campaign=simplyhired16&rx_medium=cpc
+
+https://www.ziprecruiter.com/jobs/sunrun-b56e132c/product-manager-2a1c9bf1?mid=e01049e8&source=cpc-simplyhired-standard
+https://www.mulesoft.com/careers/apply?gh_jid=117116&gh_src=di3ul0
+https://boards.greenhouse.io/thesourcery/jobs/122014?t=epsfr0#.VlUWM3arT4b
+http://jobs.thomsonreuters.com/job/San-Francisco-Senior-Software-QA-Engineer-Job-CA-94101/298840300/?feedId=394&utm_source=SimplyHired
+
+http://www.careerbuilder.com/jobs/expiredjob.aspx?job_did=J3J5WV5WPN1231CGN50&exjob=true&IPath=JELX
+After copying the above URL here i did some searches on the same site with <Quality Assurance (QA) Manager> as the keyword in SF and last 30 days
+
+************************************
+google: 100 most popular companies in San Francisco 2015
+https://www.google.com/search?q=100+most+popular+companies+in+San+Francisco+2015&cad=cbv&sei=lNEfVuvNOYfvoATQ7rKgAw
+the List of URLs
+http://www.forbes.com/
+http://aonetwork.com/blogs/Announcing-the-2015-OnCloud-Top-100-private-companies
+http://www.inc.com/inc5000/list/2013/metro/san-francisco/
+
+
+
+
+
+
+
+
+
+
+
+
+
+

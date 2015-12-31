@@ -1,0 +1,142 @@
+1.      Briefly list some of RESTful Webservices you tested and any issues you faced during automating these web services?
+*** I have had the opportunity to test REST Api at three different locations.
+*** The first REST interface required a code level analysis because the API had not
+*** been published.  The testing process started as a very low Level investigation that
+*** turned into a shell scripting exercise using cURL
+*** Second API test: I was asked to use Selenium WebDriver so that the test
+*** execution could be observed by non technical individuals.  
+*** Most recent test: Work started using a plugin for Chome browser.  I converted it 
+*** to shell scripting and cURL
+
+2.      Give an example of the sample request and response for any restful webservice you tested.
+*** Web Services testing was done a same location as first Rest API test.
+*** tool used SOAPUI.  Web services queries for login account access
+*** login account group membership.  Specifiy account membership.
+***  a blank list returned if not a member of any group.  
+***  A group name or names if membership was returned.
+*** login account specifics.  Mobile banking, Account in this sentence 
+*** means Bank Account. So, look at balance, balance xfer, bill due. bill paid. etc.
+*** Request Balance:  negative if overdrawn, zero, or a positive balance
+*** Request bill pay : with out a period specified, returned bills payed today
+*** If a period was specified, return all the bills payed in that period.
+
+3.      Are you familiar with python/ Perl/ Shell Scripting?
+***  Yes
+
+4.      What is your automation experience?
+*** Started using Selenium WebDriver in 2009. 
+*** Have build three different Test Automation Frameworks since then and
+*** used Selenium WebDriver and Java at four different jobs since then.
+
+5.      How would you automate given a restful webservice – describe your approach using a scripting language or programming language (preferably Java, Python).
+*** IF the Rest API was published, then I would start with cURL or
+*** Java/SeleniumWebDriver if a visual perspective was necessary.
+*** Continue throughout the fully documented API  via know happy path tests
+*** Upon all happy path tests, develope additional testing around each rest call
+*** with modified parameters, both for positive and for negative tests
+*** If the API is not published then one can take an adhock 
+*** approach ( not recommended ).  The other approach is to review all 
+*** source code that defines the API work out the rest calls and parameters
+
+6.      List some tools (anything other than soap ui) which you can use to perform manual/ functional validation for a given Restful webservice
+*** There are several different Browser Plugin available
+*** RestClient, PostMan, RestAssured for Java libs, cURL for command line
+
+7.      Have you tested any REST services without any UI?
+*** Yes, cURL
+
+8.      Can you give an overview of recent project and day to day activities?
+*** scrum stand up. Pull most recent code.  Build product, deploy, run existing tests.
+*** Logs Bugs if any. Try to isolate where the problem is for quicker dev turnaround.
+*** work on stories, for coverage on new features and for backlog features.
+*** 
+
+9.      Explain the functionality of the application you tested in your last project in depth
+*** Without exposing NDA details.  Worked on two projects at the same time.  Proj 1  usually
+*** idle but got attention when it came up for air.  Proj 1 distributed system. To test I spun up
+*** several windows or Linux instances in VMware / AWS / VBox ( 12 to 50 nodes )
+*** I built the product and deployed specific node applications to proper nodes, deployed the 
+*** RunnerExecutable to bare metal and VMs.  Configured Jobs in master, uploaded 
+*** Runner Executable to Master.  Watch job distribution to all intermediate and leave nodes
+*** evaluated job switching, job download, job execution
+*** Proj 2:  Product under development: Replacement for Proj 1.  3 months of strictly DevOps 
+*** work in support of the development team.  Smoke test and integration test until UI built.
+*** Followed similar practices in Proj 2 used in proj1.
+*** Three months in to proj started round 1:Test Automation on UI.  Validated all app screens
+*** access to controls and fields, control and field functinality, persistance to database
+*** round 2: Test automation developed regression test data set through automation
+*** was able to create exact conditions to run regression with this data set.  It also gave us the 
+*** benefit of executing the UI for finding bugs.  Aprox 160 bugs found this way.
+*** Round 3: Feature functionality and appliation login test execution.
+
+
+
+10.   How can you distinguish page-not-found with data-not-found?
+*** Page not found is pretty clear with an http 404 returned.
+*** Yes, but there are several different http codes that can be returned when -no data available
+*** and these occur on different reasons. 204 No Content , 
+*** But, as a formaly defined error, data-not-found doesn't exist.
+
+
+11.   How familiar are you with performance testing?
+*** have been involved in several different performance test scenarios in my career.
+*** Last Perf tesing at Monitise against Monities Middle tier Server at Banking server site.
+*** Used Jmeter against user accounts.
+
+12.   What’s integration testing & mock testing – given scenarios where you performed these kinds of tests
+*** I have been involved with integration testing my whole career.  It has taken on 
+*** different manifestations.  Network element mangement of required integration 
+*** testing of new NE loads and new server builds. Most recently as I tested a 
+*** distributed system product, as the different service nodes were develped
+*** I tested how they communicated with the master, console and with runners.  
+*** Later integration test involved how the payloads were moved around on the 
+*** network for computation services. 
+*** Mock test:  I know that mock objects can be implemented early in 
+*** development cycles.  I have not used them
+
+13.   Give examples of the above tests wrt to your previous projects or anything you can think of from Restful webservices perspective.
+*** Banking account membership. Banking accout balance, banking 
+*** account deposits. Banking account automatic bill pay.
+
+14.   Have you ever tested with diff header?
+***  NO
+
+15.   Can you please explain Scrum and Agile process?
+*** Daily short meeting, Scrum:  What did you do, what do you plan to complete today.  
+*** What is blocking you.  The working period is defined as a sprint, duration to be 
+*** defined by the user.   At the end of a sprint a deliverable is made available to some 
+*** deployment process ( internal or external ).  Work load on sprints is intended to be 
+*** consistent and based upon a selection from a backlog of work identified to be 
+*** addressed by the team( grooming the backlog )
+*** Work done during a sprint fall in to some catagorization.
+*** Stories that capture some aspect of a workflow in the product
+*** Task that identify somthing that needs to be done to keep the project running
+*** Bugs, problems found in the product that require a fix / solution
+
+16.   What are the points that are covered while planning phase of automation?
+*** Specification ( if known ) what the end result will be
+*** Featur / Functional scope of what will be tested.  
+*** Tools / Technology to be used.
+*** Time frame / Project planning.  Development phase. Cleanup phase
+*** Intended Execution environment.  CI nightly build and test framework
+*** AdHock automation test chosen for specific builds. ( one at a time )
+
+17.   What are the types of framework used in software automation testing?
+*** Data driven automation framework
+*** Keyword driven automati4on framework
+*** Modular automation framework
+*** Hybrid automation framework
+
+18.   On what basis you can map the success of automation testing?
+*** number of test cases executed in a period of time
+*** number of bugs found during an Automated run vs the 
+*** number of bugs found test manually in the same aount of time.
+*** Amount of time that can be spent on new problems as they come up
+*** vs having to be involved in repetitive testing activities.
+
+
+
+
+
+
+

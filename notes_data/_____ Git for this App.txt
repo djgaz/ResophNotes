@@ -1,0 +1,4 @@
+- 12/9/15
+- Ok, all these notes live in  C:\Program Files (x86)\ResophNotes_PortableNoRegistration\notes_data
+
+- This is a Git repository located at https://github.com/atkmh/notes_data

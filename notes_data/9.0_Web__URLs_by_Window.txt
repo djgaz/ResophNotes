@@ -1,0 +1,191 @@
+This specific page is not a most recent at top.
+More it is a most important at top ....... ( so the thinking goes 12/15/15 )
+
+
+************************
+The main calendar, gmail, ymail page with all the additional !! : )
+gmail cal
+gmail markatkinson.mobile@gmail.com
+
+http://www.sightmachine.com/
+http://jobs.talentburst.com/candidates/myjobs/openjob_outside.jsp?a=y5jdnwgsfix0t1d7osw75h145zxdtm008fvae292vxos9unusglbuzpszehgbfa0&SearchString=&StatesString=&source=simplyhired.com&id=8888013
+https://mesosphere.com/careers/
+http://hybris.com/en/company/careers/jobs/42641-presales-specialist-sanfrancisco
+https://us-amazon.icims.com/jobs/354158/technical-program-manager-%28webstore%29/job?iis=Job+Posting&iisn=Indeed+%28Free+Posting%29&mobile=false&width=1188&height=1200&bga=true&needsRedirect=false&jan1offset=-480&jun1offset=-420
+Yahoo Mail:  Specific Function
+Yahoo Mail: Spec func : Send MAIL
+https://www.fanfiction.net/community/Star-Trek-Gender-Switch/80778/99/0/1/0/40/0/0/
+https://www.fanfiction.net/u/112303/Dreamwind1
+http://dreamwind83.livejournal.com/97421.html
+http://archiveofourown.org/users/Dreamwind/works?fandom_id=601802
+https://www.fanfiction.net/u/2048425/Dracophile
+https://www.fanfiction.net/u/1235254/LibraMoon
+https://www.fanfiction.net/u/1959218/StarTrekFanWriter
+https://www.fanfiction.net/pm2/post.php?rid=161459738#last
+https://www.linkedin.com/profile/view?id=AAkAAAAGbOgBx57GnB9kbyuPmNl-Pz8T3gqdjGk&authType=NAME_SEARCH&authToken=i-DF&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A421096%2CauthType%3ANAME_SEARCH%2Cidx%3A2-1-2%2CtarId%3A1448254766087%2Ctas%3AJim
+https://www.facebook.com/
+
+http://quid.com/careers/
+
+************************
+https://github.com/atkmh
+https://help.github.com/articles/set-up-git/
+https://desktop.github.com/
+
+google: does github have a windows comand line mode
+https://help.github.com/articles/importing-a-git-repository-using-the-command-line/
+https://github.com/blog/1127-github-for-windows
+
+Google: how to connect a github repo with a directory on my PC
+https://help.github.com/articles/adding-a-file-to-a-repository-from-the-command-line/
+
+From another help page I finally put 2&2 together with the following.  Url needed .git at the end !!!
+ git clone    git@github.com:atkmh/eclipseTestRepo1.git    /mark_EclipseWorkSpace
+https://help.github.com/articles/cloning-a-repository/
+
+************************
+http://clonezilla.org/downloads/download.php?branch=stable
+http://partclone.org/features/
+https://helpx.adobe.com/reader/using/reader-x-topics.html
+
+************************
+Google: mac in pc virtual box olarila
+Google: olarila yosemite iso
+
+http://freedownloadlagump3.com/olarila-yosemite-iso/
+
+http://www.olarila.web337.kinghost.net/forum/viewtopic.php?f=31&t=4369&view=next
+
+http://www.macbreaker.com/2012/07/mountain-lion-virtualbox.html
+
+http://olarila.com/forum/
+
+
+
+************************
+Google: resume dos and don'ts 2015
+http://theundercoverrecruiter.com/modern-resume-etiquette-dos-donts/
+
+
+************************
+https://coreos.com/blog/introducing-rudder/
+http://www.pcadvisor.co.uk/how-to/network-wifi/how-to-set-up-a-home-network-3223378/
+google: windows VBOX Ubuntu set up ssh to vm on windows
+http://superuser.com/questions/180859/ssh-to-virtualbox-vm-on-windows-7
+https://www.google.com/search?q=windows+VBOX+Ubuntu+set+up+ssh+to+vm+on+windows&cad=cbv&sei=TrYdVvLNKMXG0ATNgpWoBQ
+http://stackoverflow.com/questions/5906441/how-to-ssh-to-a-virtualbox-guest-externally-through-a-host
+
+google: how to configure windows 7 firewall
+google: implementing ssh in cygwin bash
+
+http://inside.mines.edu/fs_home/gmurray/HowTo/sshNotes.html
+https://cygwin.com/install.html
+http://askubuntu.com/questions/230356/how-to-connect-via-ssh-from-virtualbox-to-windows
+http://askubuntu.com/questions/103810/how-to-ssh-from-host-win7-to-guest-ubuntu-server-10-04
+http://unix.stackexchange.com/questions/145997/trying-to-ssh-to-local-vm-ubuntu-with-putty
+
+************************
+google: ip networking for dummies pdf
+http://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/reseaux/Networking%20for%20Dummies_10th_edition.pdf
+
+http://directory.umm.ac.id/Networking%20Manual/Networking%20For%20Dummies%207%20Ed%202004.pdf
+http://www.it-docs.net/ddata/140.pdf
+https://q3k.org/gentoomen/Networking/Networking%20All-in-One%20Desk%20Reference%20for%20Dummies%202nd%20Edition.pdf
+
+https://www.icann.org/en/system/files/files/ip-addresses-beginners-guide-04mar11-en.pdf
+http://www.pdf-archive.com/2011/02/23/networking-for-dummies/networking-for-dummies.pdf
+
+************************
+https://www.virtualbox.org/manual/ch06.html
+
+http://superuser.com/questions/310697/connect-to-the-host-machine-from-a-virtualbox-guest-os
+
+************************
+http://www.indeed.com/jobs?q=Senior+QA+Manager&l=San+Francisco%2C+CA&radius=0
+http://www.americasjobexchange.com/job-detail/job-opening-AJE-572759133?source=indeed&utm_source=Indeed&utm_medium=cpc&utm_campaign=Indeed
+
+http://www.glassdoor.com/job-listing/manager-ii-iii-sr-manager-qa-and-bpi-federal-reserve-bank-JV_IC1147401_KO0,36_KE37,57.htm?jl=1625396134&jas=Y&jas-q=sr+qa+manager&paoIdKey=MTk4Nw==&utm_source=Digital+Jobs&utm_medium=synd&utm_campaign=40180
+
+http://job-openings.monster.com/monster/expired?postingID=7ed479ec-7e4a-4717-bbda-8fdb22befb5f
+
+
+http://jobsearch.monster.com/jobs/?q=QA-Manager__2c-Sr__2e-QA-Engineer&jto=1&pp=6&rad_units=miles&cy=us&geo=94111%252c%2bSan%2bFrancisco%252c%2bCalifornia%2c%2c1278002%2c575988%2c355
+
+************************
+stackoverflow
+atkmh@  *8<StdW/StartCap>!1
+
+https://careers.stackoverflow.com/
+atkmh@   **<StdW/StartCap>11
+
+************************
+
+NOTE:  Need to review and see how much I need of this
+
+http://wiki.eclipse.org/EGit/User_Guide
+
+
+************************
+
+google: can eclipse mars be installed next to eclipse juno
+https://eclipse.org/downloads/
+https://eclipse.org/downloads/index-developer.php
+
+google: Numerical eclipse version of Juno
+https://wiki.eclipse.org/FAQ_How_do_I_upgrade_Eclipse%3F
+
+************************
+Google: sublime text editor vi key bindings
+http://docs.sublimetext.info/en/latest/basic_concepts.html
+https://github.com/SublimeText/VintageEx
+http://www.sublimetext.com/docs/2/vintage.html
+
+************************
+Google: page objecct model
+https://code.google.com/p/selenium/wiki/PageObjects
+
+
+************************
+https://www.hireart.com/jobs/bdccd862/apply?utm_campaign=simplyhired-p4-35&utm_medium=external&utm_source=simplyhired
+http://support.hireart.com/article/45-do-i-need-a-cover-letter
+http://www.stitchlabs.com/about/careers
+http://www.stitchlabs.com/about/careers/job?jid=100255&name=Product%20Manager
+
+https://www.mulesoft.com/careers/apply?gh_jid=125032&gh_src=cs04ek
+https://www.mulesoft.com/careers/open-positions?gh_src=cs04ek
+https://www.mulesoft.com/careers/apply?gh_jid=117126&gh_src=cs04ek
+
+
+************************
+Malyn Deguzman's Calendar onLine in the Cloud WebApp
+https://app.youcanbook.me/#/register
+
+
+************************
+A Couple of pages of Fire Fox Selections ..
+
+Google: how to get win 7 file extension to mean a specific program
+http://pcsupport.about.com/od/fixtheproblem/ht/default-program-windows-7.htm
+http://pcsupport.about.com/od/fixtheproblem/ht/default-program-windows-7.htm
+http://superuser.com/questions/13653/how-to-set-the-default-program-for-opening-files-without-an-extension-in-windows
+http://www.computerhope.com/issues/ch000572.htm
+
+Google: win 7 how to get a program onto the list of default programs
+http://windows.microsoft.com/en-us/windows/change-default-programs#1TC=windows-7
+http://windows.microsoft.com/en-us/windows/set-program-access-computer-defaults#1TC=windows-7
+http://www.sevenforums.com/customization/10148-add-program-list-default-programs-2.html?s=7f7169f9144b30d9ddd57b238c41d1a9
+
+************************
+https://www.facebook.com/messages/kenosis6971
+https://www.facebook.com/at.kmh
+Google: windows app similar to mac notes
+http://lifehacker.com/5929334/how-to-get-mountain-lions-best-new-features-on-windows?trending_test_two_c&utm_expid=66866090-68.hhyw_lmCRuCTCg0I2RHHtw.3&utm_referrer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D2%26cad%3Drja%26uact%3D8%26ved%3D0CCUQFjABahUKEwiNuo3T2NvIAhWDOYgKHWFtC20%26url%3Dhttp%253A%252F%252Flifehacker.com%252F5929334%252Fhow-to-get-mountain-lions-best-new-features-on-windows%26usg%3DAFQjCNE3OtqsQl_7bd4ODVKGLF-dbdZp1g
+
+http://lifehacker.com/5874780/consolidate-your-notifications-and-alerts-with-a-single-system-for-better-awareness-with-less-stress-windows-edition?trending_test_two_c&utm_expid=66866090-68.hhyw_lmCRuCTCg0I2RHHtw.3&utm_referrer=http%3A%2F%2Flifehacker.com%2F5929334%2Fhow-to-get-mountain-lions-best-new-features-on-windows
+
+http://www.growlforwindows.com/gfw/contribute.aspx
+http://www.ssec.wisc.edu/data/geo/index.php?satellite=west&channel=vis&coverage=nh&file=jpg&imgoranim=8&anim_method=flash
+https://www.fanfiction.net/u/1959218/StarTrekFanWriter
+https://www.fanfiction.net/s/5147894/71/Descartes-Error
+
+end.

@@ -1,0 +1,16 @@
+Background:  Postgres on the VBOX UB14Vm
+
+Webpage that access postgres on Vm
+WebApp main function is to write to, but can read from.
+
+
+Java Selenuim Webdriver
+Mine all the info from Yahoo mail web app.
+
+Folder Date From To Subj Text Attachment
+
+Support:  need GitHub completely in place
+
+
+
+http://www.testingexcellence.com/

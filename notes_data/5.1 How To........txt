@@ -1,0 +1,8 @@
+Several areas of how to 
+
+12/30/15 I think this file needs to move. looking at 1.1 as the location
+
+
+Andriod:
+http://techbeasts.com/2013/11/08/how-to-install-android-4-3-jelly-bean-on-htc-sensation-sensation-xe/
+Had some instructions on holding buttons on start up to get configurations.

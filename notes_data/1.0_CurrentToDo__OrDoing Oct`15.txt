@@ -1,0 +1,151 @@
+Later... cant get Jenkins to run.  bumps into port 8080 something already there ?  apache ?
+12/15/15 Continued.........
+
+Having followed  google: download install apache linux unbutu
+I followed: https://help.ubuntu.com/community/ApacheMySQLPHP 
+and completed ONLY the APACHE part.  Should go back and do the other....
+
+Also Google: does ubuntu lamp stack install include Tomcat
+I followed: https://www.digitalocean.com/community/tutorials/how-to-install-apache-tomcat-8-on-ubuntu-14-04
+and have successfully installed tomcat 
+
+Now Jenkins....
+
+
+12/15/15  a web site that I think may be valuable ??? ( I always think that )
+http://blog.scottlogic.com/      Need to look into this and know if it needs to be kept
+
+12/9/15
+From   https://help.ubuntu.com/community/ApacheMySQLPHP
+did: 
+sudo apt-get update
+sudo apt-get install lamp-server^
+  Note:  Mind the caret (^) at the end. 
+
+$ apache2
+It requires a restart for it to work:
+$ sudo /etc/init.d/apache2 restart
+
+also tried the details for Ubuntu 13.10+
+
+in order to see the apache server.  Needed to do the following
+google: access my apache server in a local virtual machine
+http://askubuntu.com/questions/52147/how-can-i-access-apache-on-virtualbox-guest-from-host
+
+opened VM settings Network adapter and changed "Attached to:"
+from NAT to Host-only Adapter
+Name: to "VirtualBox Host-Only Ethernet Adapter"
+Promiscuous mode: "Allow VMs"
+
+Doing this and restarting the VM and not ifconfig returns
+192.168.56.101  when it used to be 10.0.2.15
+
+I've added the following to my windows machine
+May remove.....
+c:\windows\system32\drivers\etc\hosts, added 192.168.56.101   myubuntuvm.com
+
+also getting help from page: http://askubuntu.com/questions/52147/how-can-i-access-apache-on-virtualbox-guest-from-host
+via google: access my apache server in a local virtual machine
+
+********************
+Looking at the web app db tutorial  
+URL: ??
+
+Looking at tutorialsPoint.com  tutorial on Jenkins.  
+Need to install Jenkins,  But there are dependencies  Apache and Tomcat.
+I need to apply this to my Ununtu VM.
+
+I think I also need an ubuntu 14 Desktop.( read not server )
+
+Python Investigation
+google:python what does os.walk() return
+https://www.google.com/search?q=python+what+does+os.walk()+return&rlz=2C1CHMO_enUS0537US0537&oq=python+what+does+os.walk()+return&aqs=chrome..69i57j0.8511j0j7&sourceid=chrome&es_sm=122&ie=UTF-8
+http://stackoverflow.com/questions/15715152/os-walk-results-type
+http://stackoverflow.com/questions/10989005/do-i-understand-os-walk-right
+http://pythoncentral.io/how-to-traverse-a-directory-tree-in-python-guide-to-os-walk/
+
+
+
+
+
+Top free JavaScriptBooks
+http://java67.blogspot.com/2015/10/top-5-free-javascript-books-download-pdf-read-online.html
+http://speakingjs.com/
+http://speakingjs.com/es5/index.html
+
+Google: javascript browser execution model
+https://www.google.com/search?q=javascript+browser+execution+model&rlz=2C1CHMO_enUS0537US0537&oq=javascript+execution+model&aqs=chrome.1.69i57j0.9386j0j7&sourceid=chrome&es_sm=122&ie=UTF-8
+the URLs
+http://docstore.mik.ua/orelly/webprog/jscript/ch12_03.htm
+http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/
+http://javascript.info/tutorial/events-and-timing-depth
+
+
+google:ubuntu 14.04 server how do I get postgres 9.5alpha
+https://www.google.com/search?q=ubuntu+14.04+server+how+do+I+get+postgres+9.5alpha&cad=cbv&sei=rPcfVpWsCILsjwPKwLSwDA
+TheURLs
+http://2ndquadrant.com/en/about/news/
+http://www.postgresql.org/docs/devel/static/release-9-5.html
+https://www.openhub.net/p/postgres/rss_articles?page=1
+https://www.pgexperts.com/blog/
+http://www.bcfo-consult.com/?q=aggregator/sources/2
+http://blog.gmane.org/gmane.comp.db.postgresql.debian/month=20150701
+
+
+
+
+11/10/15  need to reorder the list.  newest on top
+Currently down to last URL is newest
+
+10/30/15 installing python.  need a recursive into directory and print out adminThisDir  or the backupBatchFile.bat
+
+11/4/15 Had some success with this after thinking about and considering looking at what os.walk actuall did and what it returned.  Got some of that straigtened out.
+
+
+11/4/15 looking into different things:
+Java Script
+
+Java Programing Interview Questions
+
+Google: javascript browser execution model
+http://docstore.mik.ua/orelly/webprog/jscript/ch12_03.htm
+http://blog.carbonfive.com/2013/10/27/the-javascript-event-loop-explained/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
+http://javascript.info/tutorial/events-and-timing-depth
+
+
+Google: java interview programming problems
+http://java2novice.com/java-interview-programs/
+http://java67.blogspot.com/2012/08/10-java-coding-interview-questions-and.html
+http://java67.blogspot.sg/2012/07/java-program-to-find-armstrong-numbers.html
+http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+http://www.bullraider.com/java/core-java/33-interview-questions
+http://www.instanceofjava.com/p/frequently-asked-java-programs-in.html
+
+
+
+Google: Is there a way to limit the memory used with may chrome pages
+https://support.google.com/chrome/answer/6152583?hl=en
+http://www.ghacks.net/2013/06/14/how-to-tame-google-chromes-memory-use/
+http://howto.excitebuzz.com/make-google-chrome-use-less-memory/120
+
+
+TechTips:
+http://h20435.www2.hp.com/t5/The-Next-Bench-Blog/A-New-wave-of-Tech-Hacks/ba-p/100289#.Vjq1a7erT4b
+https://www.youtube.com/watch?v=mFdJJmj_znA&feature=youtu.be
+http://www.makeuseof.com/tag/making-your-own-smartphone-speakers-makeuseof-tests/
+
+
+
+Faraday Cage Phone Charging
+https://www.youtube.com/watch?v=gKa58yvAlfY
+
+
+
+
+
+
+
+
+
+

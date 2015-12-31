@@ -1,0 +1,11 @@
+12/14/15
+Changing this note from :
+3_Note Text # 1
+Change to:
+3_Note GitRepo History
+... Well as best as I can keep history accurate.
+
+
+12/1/15
+There was nothing but junk here
+

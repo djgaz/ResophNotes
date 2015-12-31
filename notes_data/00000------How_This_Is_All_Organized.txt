@@ -1,0 +1,5 @@
+In order to keep some organization I've started all file names (Notes Headings ? )  with decimal values
+
+All the leading Zero entries are in Flux except for this file and for the "To_do_" file
+
+Now I need some numerical organization to the subject matter.
