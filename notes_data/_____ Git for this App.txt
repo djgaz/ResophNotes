@@ -1,4 +1,12 @@
+12/30/15
+Ok there's a new Sherrif in town
+I've removed the old repo Notes_data
+and replaced in Git hub ResophNotes
+This lives at https://github.com/atkmh/ResophNotes 
+And is the enitre directory structure from C:\Program Files (x86)\ResophNotes_PortableNoRegistration
+So, now I've got all the dll's and Executable so I can download to any win machine and have all my notes : )
+
 - 12/9/15
 - Ok, all these notes live in  C:\Program Files (x86)\ResophNotes_PortableNoRegistration\notes_data
 
-- This is a Git repository located at https://github.com/atkmh/notes_data
+- This is a Git repository located at https://github.com/atkmh/notes_data  12/30/15 This repo no longer exists
