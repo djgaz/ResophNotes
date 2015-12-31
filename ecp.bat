@@ -1,7 +1,9 @@
-if [%1]==[] (
-   echo usage: just give me a date string  in the format "mm/dd/yyy"
-   goto end
-   )
+@echo off
+
+rem if [%1]==[] (
+rem    echo usage: just give me a date string  in the format "mm/dd/yyy"
+rem    goto end
+rem    )
 
 set logDate=%date:~4,2%_%date:~7,2%_%date:~10,4%
 set  h=%TIME:~0,2%
