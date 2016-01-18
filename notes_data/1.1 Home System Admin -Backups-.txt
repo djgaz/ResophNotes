@@ -1,0 +1,13 @@
+Ok here we are with a system of backups..
+
+List backup file and where they are
+
+List philosophical approaches
+I had a limited directory model
+and I had a full backup with specific directories and types excluded.
+
+This second is where I need focus...
+
+Lastly  there have been backups done in the past.
+These need to be woven into the mix correcely and removed 
+from their position of hanging out like a sore thumb......
